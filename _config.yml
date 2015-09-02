@@ -68,6 +68,6 @@ theme: landscape
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repository: git@github.com:raingxm/raingxm.github.io.git
   branch: master
