@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+}
+
+body {
+    font: normal .80em arial, sans-serif;
+    background: #000 url(../img/author_bg.jpg) no-repeat center fixed;
+    color: #DDD;
+}
+
+#main {
+    margin: 50px auto;
+    width: 1000px;
+    border-radius: 13px 13px 13px 13px;
+    -moz-border-radius: 13px 13px 13px 13px;
+    -webkit-border: 13px 13px 13px 13px;
+    padding-bottom: 30px;
+}
