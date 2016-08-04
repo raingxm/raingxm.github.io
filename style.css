@@ -76,6 +76,11 @@ input, textarea {
 .site-header .site-logo {
 	margin-top:30px;
 }
+
+.site-header .site-logo img {
+	width: 70px;
+	height: 40px;
+}
 .site-social {
 	margin-bottom:20px;
 	float:left;
