@@ -169,6 +169,8 @@ svg {
 /* [[[ Home ]]] */
 
 .home .site-main {
+	background-image: url('images/uploads/bg.jpg');
+	background-size: cover;
 }
 .home .site-main img {
 	width: 200px;
@@ -176,7 +178,7 @@ svg {
 	margin-top: 3px;
 }
 .home .site-main .post {
-	padding:0px
+	padding:0px;
 }
 .home .row {
 	margin-right:0px;
